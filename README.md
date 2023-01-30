@@ -18,7 +18,7 @@ Unified interface to Quadratic Programming (QP) solvers available in Python.
 To install both the library and a starter set of open-source QP solvers:
 
 ```console
-pip install qpsolvers[open_source_solvers]
+pip install "qpsolvers[open_source_solvers]"
 ```
 
 To install just the library:
